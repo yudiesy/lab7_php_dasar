@@ -4,4 +4,4 @@
 ## nim : 312110249
 ## kelas : TI.21.B1
 
-![gambar 1](screnshot/ss1.png)
+![gambar 1](screenshot/ss1.png)
